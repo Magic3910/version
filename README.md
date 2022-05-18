@@ -1,1 +1,1 @@
-0.0.1
+GodsWar Beta v0.0.2-SNAPSHOT
